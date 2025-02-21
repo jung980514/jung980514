@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10&height=200&text=JiYong's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
  </div>
     <div align= "center">    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dongle&weight=400&size=40&duration=2000&pause=2000&color=0CDEF7&center=true&vCenter=true&repeat=false&repeat=false&width=800&height=100&lines=%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90+%EC%A0%84%EA%B8%B0%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80+%EC%A0%95%EB%B3%B4%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EC%A0%84%EA%B3%B5+%EC%A0%95%EC%A7%80%EC%9A%A9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dongle&weight=400&size=40&duration=2000&pause=2000&color=0CDEF7&center=true&vCenter=true&repeat=false&repeat=true&width=800&height=100&lines=%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90+%EC%A0%84%EA%B8%B0%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80+%EC%A0%95%EB%B3%B4%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EC%A0%84%EA%B3%B5+%EC%A0%95%EC%A7%80%EC%9A%A9" alt="Typing SVG" /></a>
 <br>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
